@@ -20,6 +20,25 @@ body {
   text-align: center;
 }
 
+#tarjeta {
+	width: 20rem;
+	height: 30rem;
+}
+
+.objetivo-img {
+    height: 500px;
+    object-fit: cover;
+  }
+
+.card {
+    min-width: 300px;
+  }
+  
+#tarjeta-top {
+	height: 255px; 
+	object-fit: cover;
+}
+
 #link-uno {
 	margin-bottom: 450px;
 	font-size: 50px;
@@ -124,5 +143,3 @@ body {
   max-width: 1000px;
   backdrop-filter: blur(10px); 
 }
-
-
