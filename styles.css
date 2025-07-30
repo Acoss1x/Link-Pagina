@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+body {
+	background-color: black;
+	color: white;
+
+	}
+#nav1 {
+	background-color: #1C1C1C;
+}
+
+#imagenuno {
+	background-color: rgba(0, 0, 0, 0.4)
+}
+#div1 {
+	background-color: black;
+	
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#link-uno {
+	margin-bottom: 450px;
+	font-size: 50px;
+	
+}
+
+#link-dos {
+	margin-bottom: 490px;
+	font-size: 50px;
+	
+}
+
+#etapavida {
+	background-color: #1A1818;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#hobbiesdiv {
+	background-color: #1A1818;
+}
+
+
+#fotoactualidad {
+	width: 300px;
+	height: 300px;
+	
+}
+
+#imgtennis {
+	width: 400px;
+	height: 500px;
+}
+
+#fotoxbox {
+	width: 400px;
+	height: 500px;
+}
+
+.hola {
+	margin-bottom:450px;
+	font-size: 50px;
+}
+
+.hola1 {
+	margin-bottom:470px;
+	font-size: 50px;
+}
+
+.hola2 {
+	margin-bottom:490px;
+	font-size: 50px;
+}
+
+#pruebita {
+  width: 180px;
+  font-size: 0.85rem;
+}
+
+#div2 {
+  background-color: rgba(255, 255, 255, 0.05); 
+  border: 1px solid rgba(255, 255, 255, 0.2); 
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.1); 
+  max-width: 1000px;
+  backdrop-filter: blur(10px); 
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.05); 
+  border: 1px solid rgba(255, 255, 255, 0.2); 
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.1); 
+  backdrop-filter: blur(10px); 
+  color: white;
+}
+
+#futbol {
+	background-color: rgba(255, 255, 255, 0.05); 
+  border: 1px solid rgba(255, 255, 255, 0.2);  
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.1); 
+  max-width: 1000px;
+  backdrop-filter: blur(10px); 
+}
+
+#tennis {
+	background-color: rgba(255, 255, 255, 0.05); 
+  border: 1px solid rgba(255, 255, 255, 0.2);  
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.1); 
+  max-width: 1000px;
+  backdrop-filter: blur(10px);
+}
+
+#videojuegos {
+	background-color: rgba(255, 255, 255, 0.05); 
+  border: 1px solid rgba(255, 255, 255, 0.2); 
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.1);
+  max-width: 1000px;
+  backdrop-filter: blur(10px); 
+}
+
+
